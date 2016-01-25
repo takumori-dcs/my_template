@@ -1,2 +1,4 @@
 # MY template
-rest Api => Hello World 
+rest Api
+
+acsses to http://localhost:8080/rest/hello
